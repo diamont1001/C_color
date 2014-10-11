@@ -1,0 +1,22 @@
+# depslib dependency file v1.0
+1306915701 source:d:\eric\workspace\testcolor\jr_color.c
+	"JR_Color.h"
+
+1306915525 d:\eric\workspace\testcolor\jr_color.h
+	<windows.h>
+
+1306914658 source:d:\eric\workspace\testcolor\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1313741939 source:e:\work\c_workspace\testcolor\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1306915701 source:e:\work\c_workspace\testcolor\jr_color.c
+	"JR_Color.h"
+
+1306915525 e:\work\c_workspace\testcolor\jr_color.h
+	<windows.h>
+
